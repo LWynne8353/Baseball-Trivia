@@ -1,5 +1,6 @@
 #container{
     text-align: center;
+    text-size-adjust: 36px;
     width: 300px;
     padding:50px;
     margin: 70px;
@@ -10,8 +11,7 @@
 
 h1{
    color: whitesmoke;
-   size: 36;
-   box-align: center;
+
 }
 
 .start{
