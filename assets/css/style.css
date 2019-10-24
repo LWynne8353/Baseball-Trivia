@@ -1,0 +1,25 @@
+#container{
+    text-align: center;
+    width: 300px;
+    padding:50px;
+    margin: 70px;
+    border: 5px;
+    background-color: lightskyblue
+}
+
+
+h1{
+   color: whitesmoke;
+   size: 36;
+   box-align: center;
+}
+
+.start{
+       background-color: whitesmoke;
+       color: black;
+       width: 200px;
+       font-size: 24px;
+       padding:20px;
+       margin:20px;
+       border-radius: 20%;
+}

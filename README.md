@@ -1,1 +1,2 @@
 # Baseball-Trivia
+This is a quiz or trivia game about baseball. The purpose of the trivia game is to show the valuable use of the timer display, function and (of course) test your knowledge on baseball. 
