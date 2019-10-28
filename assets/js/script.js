@@ -45,8 +45,8 @@ $(".start").click(function () {
 
 
 $("#input[type='button']").click(function() {
-    var radioValue= $("input[answer ='correct' ]: checked").val();
-      if (radioVal)
+    var answer = $("#input[answer ='correct']: checked").val();
+      
 
 
 
@@ -58,7 +58,9 @@ $("#input[type='button']").click(function() {
     $(".submit").click(function () {
         $("#questions").hide();
         $("#results").show();
-        console.log("results")
+
+        run();
+       
     });
 
 });
